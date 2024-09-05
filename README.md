@@ -83,5 +83,3 @@ Govardhan Katta
 - The application might require adjustments based on your specific dataset and environment.
 
 ---
-
-Feel free to modify this template as needed and add any additional information or images that might be relevant.
