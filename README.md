@@ -1,11 +1,5 @@
 # Skin-Cancer-Detection-using-Deep-Learning
 
-Based on your code, here's a draft README file for your Skin Cancer Detection and Classification project:
-
----
-
-# Skin Cancer Detection and Classification
-
 ## Description
 
 The Skin Cancer Detection and Classification project is a machine learning application designed to identify and classify various types of skin cancer from images using Convolutional Neural Networks (CNN). The application uses TensorFlow and Keras for model building and training, and Tkinter for creating a user-friendly graphical interface. It supports dataset loading, preprocessing, model training, prediction, and visualization of results.
@@ -78,20 +72,9 @@ The Skin Cancer Detection and Classification project is a machine learning appli
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 Govardhan Katta
-
-## Contact Information
-
-For any questions or support, you can reach me at:
-- Email: govukatta19@gmail.com
-- Phone: +91 8309520528
-
 
 
 ## Known Issues
